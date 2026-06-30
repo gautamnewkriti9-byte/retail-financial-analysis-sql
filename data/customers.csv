@@ -1,0 +1,121 @@
+customer_id,customer_name,segment,city,state
+CUST-0001,Uday Rao,Consumer,Chennai,Tamil Nadu
+CUST-0002,Harsh Mehta,Consumer,Pune,Maharashtra
+CUST-0003,Vidya Reddy,Home Office,Pune,Maharashtra
+CUST-0004,Sahil Iyer,Consumer,Mumbai,Maharashtra
+CUST-0005,Chetan Mehta,Consumer,Jaipur,Rajasthan
+CUST-0006,Tara Sharma,Home Office,Bengaluru,Karnataka
+CUST-0007,Wasim Joshi,Home Office,Jaipur,Rajasthan
+CUST-0008,Nikhil Mehta,Corporate,Chandigarh,Punjab
+CUST-0009,Isha Nair,Consumer,New Delhi,Delhi
+CUST-0010,Wasim Iyer,Corporate,Chennai,Tamil Nadu
+CUST-0011,Emanuel Mehta,Corporate,Pune,Maharashtra
+CUST-0012,Chetan Iyer,Consumer,Kolkata,West Bengal
+CUST-0013,Bina Khan,Home Office,Chennai,Tamil Nadu
+CUST-0014,Zara Sharma,Home Office,Ahmedabad,Gujarat
+CUST-0015,Riya Rao,Corporate,Pune,Maharashtra
+CUST-0016,Riya Costa,Home Office,Chandigarh,Punjab
+CUST-0017,Charu Kapoor,Corporate,Chandigarh,Punjab
+CUST-0018,Gita Reddy,Consumer,Mumbai,Maharashtra
+CUST-0019,Vidya Mehta,Corporate,Pune,Maharashtra
+CUST-0020,Bina Mehta,Consumer,Hyderabad,Telangana
+CUST-0021,Isha Patel,Home Office,Kolkata,West Bengal
+CUST-0022,Farah Khan,Corporate,Bengaluru,Karnataka
+CUST-0023,Vidya Costa,Home Office,Pune,Maharashtra
+CUST-0024,Tara Joshi,Consumer,Jaipur,Rajasthan
+CUST-0025,Xena Mehta,Consumer,Ahmedabad,Gujarat
+CUST-0026,Maya Costa,Home Office,Jaipur,Rajasthan
+CUST-0027,Harsh Joshi,Corporate,Mumbai,Maharashtra
+CUST-0028,Harsh Kapoor,Consumer,Kolkata,West Bengal
+CUST-0029,Maya Costa,Consumer,Bengaluru,Karnataka
+CUST-0030,Devraj Gupta,Home Office,Kolkata,West Bengal
+CUST-0031,Gita Joshi,Corporate,Hyderabad,Telangana
+CUST-0032,Charu Malhotra,Home Office,Ahmedabad,Gujarat
+CUST-0033,Emanuel Costa,Consumer,Bengaluru,Karnataka
+CUST-0034,Xena Singh,Home Office,Chennai,Tamil Nadu
+CUST-0035,Xena Gupta,Corporate,Chandigarh,Punjab
+CUST-0036,Maya Khan,Consumer,New Delhi,Delhi
+CUST-0037,Qadir Patel,Consumer,Mumbai,Maharashtra
+CUST-0038,Bina Rao,Consumer,New Delhi,Delhi
+CUST-0039,Zara Joshi,Corporate,Chandigarh,Punjab
+CUST-0040,Chetan Iyer,Corporate,Chandigarh,Punjab
+CUST-0041,Omkar Singh,Corporate,Jaipur,Rajasthan
+CUST-0042,Bina Sharma,Home Office,Pune,Maharashtra
+CUST-0043,Vidya Malhotra,Home Office,Chennai,Tamil Nadu
+CUST-0044,Yash Joshi,Corporate,Pune,Maharashtra
+CUST-0045,Jatin Iyer,Consumer,Ahmedabad,Gujarat
+CUST-0046,Anil Reddy,Home Office,Chennai,Tamil Nadu
+CUST-0047,Qadir Nair,Consumer,Jaipur,Rajasthan
+CUST-0048,Devraj Rao,Home Office,Chennai,Tamil Nadu
+CUST-0049,Aman Joshi,Home Office,Chandigarh,Punjab
+CUST-0050,Gita Verma,Corporate,New Delhi,Delhi
+CUST-0051,Riya Nair,Home Office,Mumbai,Maharashtra
+CUST-0052,Tara Khan,Corporate,Mumbai,Maharashtra
+CUST-0053,Dhruv Malhotra,Corporate,Chennai,Tamil Nadu
+CUST-0054,Harsh Sharma,Consumer,Chandigarh,Punjab
+CUST-0055,Chetan Rao,Home Office,Ahmedabad,Gujarat
+CUST-0056,Aman Rao,Home Office,New Delhi,Delhi
+CUST-0057,Emanuel Joshi,Corporate,Jaipur,Rajasthan
+CUST-0058,Farah Costa,Home Office,Chandigarh,Punjab
+CUST-0059,Nikhil Mehta,Home Office,Bengaluru,Karnataka
+CUST-0060,Wasim Costa,Corporate,Kolkata,West Bengal
+CUST-0061,Omkar Malhotra,Home Office,Ahmedabad,Gujarat
+CUST-0062,Dhruv Mehta,Consumer,Pune,Maharashtra
+CUST-0063,Komal Sharma,Home Office,Jaipur,Rajasthan
+CUST-0064,Harsh Gupta,Consumer,Mumbai,Maharashtra
+CUST-0065,Chetan Reddy,Home Office,Mumbai,Maharashtra
+CUST-0066,Harsh Rao,Consumer,Kolkata,West Bengal
+CUST-0067,Chetan Singh,Consumer,Chennai,Tamil Nadu
+CUST-0068,Vidya Patel,Consumer,Jaipur,Rajasthan
+CUST-0069,Emanuel Reddy,Home Office,Chandigarh,Punjab
+CUST-0070,Priya Mehta,Corporate,Hyderabad,Telangana
+CUST-0071,Gita Rao,Consumer,Hyderabad,Telangana
+CUST-0072,Lalit Iyer,Corporate,Ahmedabad,Gujarat
+CUST-0073,Bina Reddy,Consumer,Pune,Maharashtra
+CUST-0074,Bhumika Iyer,Home Office,Kolkata,West Bengal
+CUST-0075,Zara Kapoor,Consumer,Bengaluru,Karnataka
+CUST-0076,Gita Mehta,Home Office,Ahmedabad,Gujarat
+CUST-0077,Emanuel Iyer,Consumer,Chennai,Tamil Nadu
+CUST-0078,Omkar Mehta,Consumer,Ahmedabad,Gujarat
+CUST-0079,Zara Kapoor,Home Office,Pune,Maharashtra
+CUST-0080,Bhumika Joshi,Home Office,Mumbai,Maharashtra
+CUST-0081,Chetan Malhotra,Consumer,New Delhi,Delhi
+CUST-0082,Nikhil Patel,Corporate,Bengaluru,Karnataka
+CUST-0083,Bina Iyer,Consumer,New Delhi,Delhi
+CUST-0084,Maya Sharma,Corporate,Chennai,Tamil Nadu
+CUST-0085,Devraj Nair,Corporate,Chennai,Tamil Nadu
+CUST-0086,Nikhil Reddy,Home Office,Jaipur,Rajasthan
+CUST-0087,Vidya Reddy,Corporate,New Delhi,Delhi
+CUST-0088,Gita Costa,Consumer,Mumbai,Maharashtra
+CUST-0089,Sahil Reddy,Home Office,Mumbai,Maharashtra
+CUST-0090,Xena Khan,Consumer,Mumbai,Maharashtra
+CUST-0091,Sahil Patel,Home Office,Jaipur,Rajasthan
+CUST-0092,Farah Sharma,Home Office,Pune,Maharashtra
+CUST-0093,Bina Verma,Consumer,Chandigarh,Punjab
+CUST-0094,Chetan Joshi,Consumer,Hyderabad,Telangana
+CUST-0095,Dhruv Malhotra,Home Office,Bengaluru,Karnataka
+CUST-0096,Sahil Gupta,Consumer,Chandigarh,Punjab
+CUST-0097,Chetan Iyer,Home Office,Chandigarh,Punjab
+CUST-0098,Sahil Singh,Corporate,Chennai,Tamil Nadu
+CUST-0099,Gita Joshi,Home Office,Kolkata,West Bengal
+CUST-0100,Harsh Costa,Corporate,New Delhi,Delhi
+CUST-0101,Vidya Joshi,Corporate,Ahmedabad,Gujarat
+CUST-0102,Komal Malhotra,Consumer,Mumbai,Maharashtra
+CUST-0103,Omkar Gupta,Home Office,Pune,Maharashtra
+CUST-0104,Chetan Singh,Consumer,Jaipur,Rajasthan
+CUST-0105,Isha Verma,Corporate,Pune,Maharashtra
+CUST-0106,Charu Mehta,Corporate,Chennai,Tamil Nadu
+CUST-0107,Farah Patel,Home Office,Chennai,Tamil Nadu
+CUST-0108,Tara Nair,Home Office,Jaipur,Rajasthan
+CUST-0109,Anil Joshi,Home Office,Chennai,Tamil Nadu
+CUST-0110,Devraj Joshi,Consumer,New Delhi,Delhi
+CUST-0111,Isha Rao,Consumer,Jaipur,Rajasthan
+CUST-0112,Emanuel Costa,Corporate,Chandigarh,Punjab
+CUST-0113,Gita Reddy,Corporate,Bengaluru,Karnataka
+CUST-0114,Vidya Joshi,Corporate,Jaipur,Rajasthan
+CUST-0115,Priya Costa,Consumer,Pune,Maharashtra
+CUST-0116,Uday Iyer,Corporate,Mumbai,Maharashtra
+CUST-0117,Anil Khan,Consumer,Chennai,Tamil Nadu
+CUST-0118,Farah Reddy,Corporate,Jaipur,Rajasthan
+CUST-0119,Wasim Iyer,Home Office,Mumbai,Maharashtra
+CUST-0120,Dhruv Rao,Home Office,New Delhi,Delhi
