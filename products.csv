@@ -1,0 +1,31 @@
+product_id,product_name,category,sub_category
+PROD-0001,Galaxy Edge Phone,Technology,Phones
+PROD-0002,UltraView Smartphone,Technology,Phones
+PROD-0003,NovaTel Phone,Technology,Phones
+PROD-0004,ProBook Laptop,Technology,Laptops
+PROD-0005,AeroLite Notebook,Technology,Laptops
+PROD-0006,PowerEdge Laptop,Technology,Laptops
+PROD-0007,Wireless Mouse,Technology,Accessories
+PROD-0008,USB-C Hub,Technology,Accessories
+PROD-0009,Bluetooth Speaker,Technology,Accessories
+PROD-0010,LaserJet Printer,Technology,Printers
+PROD-0011,InkFlow Printer,Technology,Printers
+PROD-0012,PhotoPrint Pro,Technology,Printers
+PROD-0013,ErgoComfort Chair,Furniture,Chairs
+PROD-0014,ExecutiveLine Chair,Furniture,Chairs
+PROD-0015,MeshBack Chair,Furniture,Chairs
+PROD-0016,ConferencePro Table,Furniture,Tables
+PROD-0017,CornerDesk Table,Furniture,Tables
+PROD-0018,RoundTop Table,Furniture,Tables
+PROD-0019,ClassicWood Bookcase,Furniture,Bookcases
+PROD-0020,ModernGlass Bookcase,Furniture,Bookcases
+PROD-0021,FileMaster Cabinet,Furniture,Storage
+PROD-0022,StackBox Storage Unit,Furniture,Storage
+PROD-0023,PremiumCopy Paper,Office Supplies,Paper
+PROD-0024,BrightWhite Paper Ream,Office Supplies,Paper
+PROD-0025,HeavyDuty Binder,Office Supplies,Binders
+PROD-0026,SlimFit Binder,Office Supplies,Binders
+PROD-0027,GelGlide Pen Pack,Office Supplies,Pens
+PROD-0028,InkMaster Pen Set,Office Supplies,Pens
+PROD-0029,StickRight Labels,Office Supplies,Labels
+PROD-0030,ClearView Labels,Office Supplies,Labels
